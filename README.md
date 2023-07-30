@@ -1,6 +1,6 @@
 # SHT45_Module_SXG 
 ## 專案介紹:
-SHT45_Module_SXG是一個開源的小型CO2模組  
+SHT45_Module_SXG是一個開源的溫濕度模組  
 ### 應用場所:  
 
 ### 主要功能:  
@@ -10,7 +10,8 @@ SHT45_Module_SXG是一個開源的小型CO2模組
 ### 技術文件:  
 * 源始碼
 * [SHT45 datasheet](https://sensirion.com/products/catalog/SHT45/)
-* [電路圖](./Circuit/SHT45_Module_SXG.pdf)
+* [Schematic 1](./Circuit/SHT45_Module_SXG_schematic1.pdf)
+* [Schematic 2](./Circuit/RP2040-Plus_SHT45_schematic2.png)
 * [PCB Layotu](./Circuit/SHT45_Module_SXG_layotu.png)
 * [PCB 3D渲染](./Circuit/SHT45_Module_SXG_3D.png)
 
