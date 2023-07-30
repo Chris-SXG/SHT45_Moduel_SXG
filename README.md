@@ -1,6 +1,6 @@
 # SHT45_Module_SXG 
 ## 專案介紹:
-SHT45_Module_SXG是一個開源的小型CO2模組  
+SHT45_Module_SXG是一個開源的溫濕度模組  
 ### 應用場所:  
 
 ### 主要功能:  
