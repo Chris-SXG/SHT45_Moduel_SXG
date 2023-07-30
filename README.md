@@ -8,7 +8,7 @@ SHT45_Module_SXG是一個開源的溫濕度模組
 * 供電3V/5V
 
 ### 技術文件:  
-* 源始碼
+* [Source code](./Code)
 * [SHT45 datasheet](https://sensirion.com/products/catalog/SHT45/)
 * [Schematic 1](./Circuit/SHT45_Module_SXG_schematic1.pdf)
 * [Schematic 2](./Circuit/RP2040-Plus_SHT45_schematic2.png)
