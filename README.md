@@ -1,5 +1,5 @@
 # SHT45_Module_SXG 
-## [GitHub專案網址] (https://github.com/Chris-SXG/SHT45_Moduel_SXG/tree/main) 
+## [GitHub專案網址](https://github.com/Chris-SXG/SHT45_Moduel_SXG/tree/main) 
 ## 專案介紹:
 SHT45_Module_SXG是一個開源的溫濕度模組  
 ### 應用場所:  
