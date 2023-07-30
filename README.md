@@ -12,6 +12,7 @@ SHT45_Module_SXG是一個開源的小型CO2模組
 * 線路圖(pdf)
 * PCB Layotu(png)
 * [SHT45 datasheet](https://sensirion.com/products/catalog/SHT45/)
+* [電路圖](./Circuit/SHT45_Module_SXG.pdf)
 
 
 #### 其它:  
